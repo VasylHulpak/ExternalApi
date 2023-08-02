@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PleaseSign", "PleaseSign\PleaseSign.csproj", "{929824A8-BD3C-4A62-B7F0-34BA56F87ACF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yodlee", "Yodlee\Yodlee.csproj", "{FE9858A2-E5C3-42D7-9B8D-5C44CE45675C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{929824A8-BD3C-4A62-B7F0-34BA56F87ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{929824A8-BD3C-4A62-B7F0-34BA56F87ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{929824A8-BD3C-4A62-B7F0-34BA56F87ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE9858A2-E5C3-42D7-9B8D-5C44CE45675C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE9858A2-E5C3-42D7-9B8D-5C44CE45675C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE9858A2-E5C3-42D7-9B8D-5C44CE45675C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE9858A2-E5C3-42D7-9B8D-5C44CE45675C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
